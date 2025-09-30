@@ -17,3 +17,7 @@ Ele utiliza a biblioteca youtube-transcript-api para recuperar o conteúdo de fo
 Python 3.x
 
 youtube-transcript-api (biblioteca)
+
+# Contato
+Linkedin: Miguel Araújo
+E-mail: araujofreitas2008@gmail.com
