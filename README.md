@@ -20,4 +20,5 @@ youtube-transcript-api (biblioteca)
 
 # Contato
 Linkedin: Miguel Araújo
+
 E-mail: araujofreitas2008@gmail.com
